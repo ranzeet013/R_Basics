@@ -15,6 +15,7 @@ Link:
 
 
 
+
 Day_3 of Learning Data Analysis with R:
 
 Topics:
@@ -24,6 +25,7 @@ Array in R :
 
 Link:
 [Array in R](https://github.com/ranzeet013/R_Basics/tree/main/01.%20Arrays%20in%20R)
+
 
 
 
@@ -39,6 +41,7 @@ Link:
 
 
 
+
 Day_7 of Learning Data Analysis with R:
 
 Topics:
@@ -48,6 +51,7 @@ Vectors in R :
 
 Link:
 [Vectors in R](https://github.com/ranzeet013/R_Basics/tree/main/03.%20Vector%20in%20R)
+
 
 
 
@@ -63,6 +67,7 @@ Link:
 
 
 
+
 Day_11 of Learning Data Analysis with R:
 
 Topics:
@@ -72,6 +77,7 @@ List in R :
 
 Link:
 [List in R](https://github.com/ranzeet013/R_Basics/tree/main/05.%20List%20in%20R)
+
 
 
 
@@ -87,6 +93,7 @@ Link:
 
 
 
+
 Day_15 of Learning Data Analysis with R:
 
 Topics:
@@ -96,6 +103,7 @@ DataFrame Manipulator in R :
 
 Link:
 [DataFrame Manipulator in R](https://github.com/ranzeet013/R_Basics/tree/main/07.%20Dataframe%20Manipulation%20in%20R)
+
 
 
 
@@ -111,6 +119,7 @@ Link:
 
 
 
+
 Day_19 of Learning Data Analysis with R:
 
 Topics:
@@ -123,6 +132,7 @@ Link:
 
 
 
+
 Day_20 of Learning Data Analysis with R:
 
 Topics:
@@ -132,6 +142,7 @@ Data Pipeline in R :
 
 Link:
 [Data Pipeline in R](https://github.com/ranzeet013/R_Basics/tree/main/10.%20Data%20Pipeline)
+
 
 
 
